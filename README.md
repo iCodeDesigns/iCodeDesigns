@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iCodeDesigns
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning backend 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
